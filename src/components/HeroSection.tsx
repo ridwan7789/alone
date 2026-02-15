@@ -44,7 +44,7 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.4 }}
           className="text-lg md:text-2xl text-muted-foreground mb-10 font-body"
         >
-          Pippin Alone $ALON CA: Sollllllllllllllllllllll
+          Pippin Alone $ALON ATFteCy4SCVV1tSiv2C9S2RN8sEJXsDkzVoKneHwpump: Sollllllllllllllllllllll
         </motion.p>
 
         <motion.div
