@@ -38,6 +38,15 @@ const HeroSection = () => {
           A small glowing soul, wandering the cosmos alone — finding light in the silence.
         </motion.p>
 
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1, delay: 0.4 }}
+          className="text-lg md:text-2xl text-muted-foreground mb-10 font-body"
+        >
+          Pippin Alone $ALON CA: Sollllllllllllllllllllll
+        </motion.p>
+
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
