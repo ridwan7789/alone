@@ -3,8 +3,8 @@ import { TelegramIcon, XIcon, GlobeIcon, GithubIcon } from "./icons/SocialIcons"
 import React from "react";
 
 const socials = [
-  { name: "Telegram", icon: <TelegramIcon size={36} />, url: "https://t.me/Pippinuniverse" },
-  { name: "X (Twitter)", icon: <XIcon size={36} />, url: "https://x.com/pippinuniverse" },
+  { name: "Telegram", icon: <TelegramIcon size={36} />, url: "https://t.me" },
+  { name: "X (Twitter)", icon: <XIcon size={36} />, url: "https://x.com/i/communities/2023017318511788285" },
   { name: "Website", icon: <GlobeIcon size={36} />, url: "https://pippinuniverse.fun" },
   { name: "GitHub", icon: <GithubIcon size={36} />, url: "https://github.com/pippinlovesyou/pippin-universe" },
 ];
